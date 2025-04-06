@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazwind.Server", "Blazwind.Server\Blazwind.Server.csproj", "{207ADAE2-C953-490B-8C78-73EA9107BFCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazwind.WASM.Server", "Blazwind.WASM\Server\Blazwind.WASM.Server.csproj", "{CFBFDCC7-D76D-4455-9782-75943ADBE684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazwind.WASM.Client", "Blazwind.WASM\Client\Blazwind.WASM.Client.csproj", "{3BE529CF-91EC-4C21-96B2-EE628017AD51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazwind.WASM.Shared", "Blazwind.WASM\Shared\Blazwind.WASM.Shared.csproj", "{119B37B2-25E9-4C3D-A491-7206A86EB3C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207ADAE2-C953-490B-8C78-73EA9107BFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207ADAE2-C953-490B-8C78-73EA9107BFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207ADAE2-C953-490B-8C78-73EA9107BFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207ADAE2-C953-490B-8C78-73EA9107BFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBFDCC7-D76D-4455-9782-75943ADBE684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBFDCC7-D76D-4455-9782-75943ADBE684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBFDCC7-D76D-4455-9782-75943ADBE684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBFDCC7-D76D-4455-9782-75943ADBE684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE529CF-91EC-4C21-96B2-EE628017AD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE529CF-91EC-4C21-96B2-EE628017AD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE529CF-91EC-4C21-96B2-EE628017AD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE529CF-91EC-4C21-96B2-EE628017AD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119B37B2-25E9-4C3D-A491-7206A86EB3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119B37B2-25E9-4C3D-A491-7206A86EB3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119B37B2-25E9-4C3D-A491-7206A86EB3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119B37B2-25E9-4C3D-A491-7206A86EB3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
