@@ -11,4 +11,11 @@
       <ProjectReference Include="..\Blazwind.WASM\Shared\Blazwind.WASM.Shared.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Update="wwwroot.duplicate\css\input.css">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+    </ItemGroup>
+
 </Project>
