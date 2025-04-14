@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blazwind.WASM.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37f94df7282dc8edb5db17aa062324d78a05eade")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb8d139949a6d63bddd86dda3844d2d8802d24fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blazwind.WASM.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blazwind.WASM.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
