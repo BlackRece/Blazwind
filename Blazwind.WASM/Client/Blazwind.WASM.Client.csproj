@@ -15,4 +15,11 @@
         <ProjectReference Include="..\Shared\Blazwind.WASM.Shared.csproj"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Update="Styles\app.css">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+    </ItemGroup>
+
 </Project>
